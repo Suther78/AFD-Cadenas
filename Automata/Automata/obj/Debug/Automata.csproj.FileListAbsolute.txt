@@ -1,0 +1,10 @@
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\bin\Debug\Automata.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\bin\Debug\Automata.exe
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\bin\Debug\Automata.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.Form1.resources
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.exe
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.pdb
+C:\Users\sergi\OneDrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.Menu.resources
