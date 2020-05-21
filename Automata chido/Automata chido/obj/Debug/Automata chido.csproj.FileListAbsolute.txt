@@ -1,0 +1,6 @@
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata chido\Automata chido\bin\Debug\Automata chido.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata chido\Automata chido\bin\Debug\Automata chido.exe
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata chido\Automata chido\bin\Debug\Automata chido.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata chido\Automata chido\obj\Debug\Automata chido.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata chido\Automata chido\obj\Debug\Automata chido.exe
+c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata chido\Automata chido\obj\Debug\Automata chido.pdb
