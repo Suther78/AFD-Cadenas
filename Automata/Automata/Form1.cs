@@ -82,13 +82,15 @@ namespace Automata
             var resultstring = "";
             foreach (char ch in alfabeto.ToCharArray())
             {
-                resultstring +=  "Alfabeto : " + ch.ToString() + "\n";
+                resultstring +=  ch.ToString() + ",";
             }
             dib.label1.Text = "Los estados dentro del Automata son:" + num_estados ;
             dib.label2.Text = "El estado inicial es: "+ inicial;
             dib.label3.Text = "Los estados de finalizacion son:" + final;
             dib.label4.Text = "Alfabeto: "+resultstring;
-            
+           
+           
+
 
         }
     }
