@@ -8,3 +8,14 @@ c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata
 c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.exe
 c:\users\sergi\onedrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.pdb
 C:\Users\sergi\OneDrive\documentos\visual studio 2015\Projects\Automata\Automata\obj\Debug\Automata.Menu.resources
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\obj\Debug\Automata.pdb
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\obj\Debug\Automata.csprojResolveAssemblyReference.cache
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\obj\Debug\Automata.Dibujo.resources
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\obj\Debug\Automata.Menu.resources
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Documentos\Visual Studio 2015\Projects\AFD-Cadenas\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.Cache

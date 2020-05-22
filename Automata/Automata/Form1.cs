@@ -15,6 +15,9 @@ namespace Automata
         int contador;
         char[] cadena;
         bool aceptado;
+        public  int num_estados { get; set; }
+
+        
         public Form1()
         {
             InitializeComponent();
@@ -28,7 +31,7 @@ namespace Automata
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            textBox1.Text = "Ingresa la cadena a evaluar"; 
+           
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -68,6 +71,8 @@ namespace Automata
             this.Visible = false;
             Dibujo dib = new Dibujo();
             dib.Visible = true;
+            num_estados = int.Parse(textBox1.Text);
+            
         }
     }
 }
