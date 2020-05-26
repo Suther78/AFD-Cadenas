@@ -48,10 +48,18 @@ namespace FSM_Simple
                     string origen = Console.ReadLine();
                     Console.Write("Ingresa con que te moveras: ");
                     char tok = char.Parse(Console.ReadLine());
-                    Console.Write("Ingresa el destino: ");
-                    string Destino = Console.ReadLine();
-                    Delta.Add(new Transition(origen, tok, Destino));
-                    
+                    if (Sigma.Contains(tok))
+                    {
+                        Console.Write("Ingresa el destino: ");
+                        string Destino = Console.ReadLine();
+                        Delta.Add(new Transition(origen, tok, Destino));
+
+                    }
+                    else
+                    {
+                        Console.Write("No se cuenta con esa letra del alfabeto");
+                    }
+
                 }
                 //    var Delta = new List<Transition>{
                 //new Transition("q0", 'a', "q1"),
